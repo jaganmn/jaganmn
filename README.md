@@ -1,8 +1,8 @@
 <a rel="me" href="https://fosstodon.org/@jaganmn"></a>
 Hey, I'm Mikael! :-)
 
-I work as a research software developer in the Department of Mathematics and Statistics at McMaster University in Hamilton, Ontario, Canada,
-where my main research interests are statistical computing and statistical inference for ecological models.
+I live in Toronto, Ontario, Canada and I work as a research software developer in the Department of Mathematics and Statistics at
+McMaster University, where my main research interests are statistical computing and statistical inference for ecological models.
 
 I'm an active contributor to the [R programming language](https://www.r-project.org/) and to the R package ecosystem maintained by
 [CRAN](https://cran.r-project.org/) and [Bioconductor](https://bioconductor.org/).
