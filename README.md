@@ -8,7 +8,7 @@ I'm an active contributor to the [R programming language](https://www.r-project.
 [CRAN](https://cran.r-project.org/) and [Bioconductor](https://bioconductor.org/).
 
 * [Since 2021](https://bugs.r-project.org/buglist.cgi?email3=jaganmn%40mcmaster.ca&emaillongdesc3=1&emailtype3=substring&list_id=44997&order=bug_id%20DESC&query_format=advanced),
-  I've been reporting, diagnosing, and providing patches for bugs in R with a focus on statistical models, numerical linear algebra,
+  I've been reporting, diagnosing, and providing patches for bugs in R with a focus on numerical linear algebra, statistical models,
   and object orientation (generic functions, classes, methods, and method dispatch).
 * I maintain R package [**Matrix**](https://CRAN.R-project.org/package=Matrix) alongside R Core Team member (and principal maintainer)
   Martin Mächler.  **Matrix** extends R with classes for representation of dense and sparse structured matrices and methods for efficient
