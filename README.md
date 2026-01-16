@@ -18,7 +18,7 @@ and [Bioconductor](https://bioconductor.org/).
 
 * I'm co-leading a [£500k grant](https://www.software.ac.uk/rsmf-round-1-projects)
   from the Research Software Maintenance Fund of the UK's Software
-  Sustainability Institute.  During 2026-2027, I'll be collaborating
+  Sustainability Institute.  During 2026-2028, I'll be collaborating
   with members of the R Core Team on infrastructure to help sustain
   the R Project.
 
